@@ -5,7 +5,6 @@ def square_array(array)
 end
 
 #def square_array(array)
- # new_array = []
  # puts array.collect { |num| num ** 2 }
 #end
 
